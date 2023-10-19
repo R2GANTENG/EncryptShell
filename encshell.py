@@ -28,8 +28,8 @@ banner = """
      dZP        qKRb
     dZP          qKKb
    fZP            SMMb
-   HZM            MMMM    {}Coded by {}: {}YT : Jankari Ki Duniya
-{}   FqM            MMM {}TG{}: {}TG : @Dr_Asad_Ali
+   HZM            MMMM    {}Coded by {}: {}wa : 083876103562
+{}   FqM            MMM {}TG{}: {}TG : @bijiOntaTerbangG
 {} __|'\ .        |\{}dS qML
 {} |    `.       | `' \{}Zq
 {}_)      \.{}___.{},|     .'
